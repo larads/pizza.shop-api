@@ -8,6 +8,13 @@
       "when": 1745457369032,
       "tag": "0000_boring_brother_voodoo",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1745721242552,
+      "tag": "0001_minor_champions",
+      "breakpoints": true
     }
   ]
 }
