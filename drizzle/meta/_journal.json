@@ -15,6 +15,13 @@
       "when": 1745721242552,
       "tag": "0001_minor_champions",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1745723013183,
+      "tag": "0002_bumpy_ogun",
+      "breakpoints": true
     }
   ]
 }
